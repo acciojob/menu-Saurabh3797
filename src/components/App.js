@@ -15,6 +15,7 @@ const App = () => {
     <div>
       <Navbar setSelected={setSelected}/>
       <MenuDisplay selected={selected}/>
+      
     </div>
   )
 }
